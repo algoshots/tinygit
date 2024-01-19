@@ -1,4 +1,5 @@
 # Tiny Git
+![Build](https://github.com/algoshots/tinygit/actions/workflows/build.yml/badge.svg)
 
 Tiny Git is a subset of [Git](https://github.com/git/git)
 
